@@ -1,0 +1,12 @@
+tweet-preprocessor
+pandas
+scikit-learn
+xgboost
+textblob
+nltk
+keras
+numpy
+gensim
+wordcloud
+matplotlib
+preprocessor
