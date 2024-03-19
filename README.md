@@ -72,6 +72,6 @@ To use this notebook, follow these steps:
     ```
 3. Open the Jupyter Notebook and execute each code block sequentially.
 
-## Conclusion
-This README provides an overview and purpose of the project. Reader can understand the project's structure and functionalities before diving into the code.
+## Notes
+This README provides an overview and purpose of the project. Reader can understand the project's structure and functionalities before diving into the code.Feel free to adjust hyperparameters, network architecture, or any other aspects of the code to experiment with different configurations.
 
