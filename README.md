@@ -70,7 +70,9 @@ To use this notebook, follow these steps:
 3. Open the Jupyter Notebook and execute each code block sequentially.
 
 ## Notes
-This README provides an overview and purpose of the project. Reader can understand the project's structure and functionalities before diving into the code.Feel free to adjust hyperparameters, network architecture, or any other aspects of the code to experiment with different configurations.
+- Download "wiki-news-300d-1M-subword.vec" dataset to load pre-trained word embeddings.
+- This README provides an overview and purpose of the project. 
+- Reader can understand the project's structure and functionalities before diving into the code.
+- Feel free to adjust hyperparameters, network architecture, or any other aspects of the code to experiment with different configurations.
 
-Download "wiki-news-300d-1M-subword.vec" dataset to load pre-trained word embeddings
 
