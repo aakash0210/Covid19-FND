@@ -1,9 +1,10 @@
 # COVID-19 Fake News Detection
 
-## Overview
-This repository contains a Jupyter Notebook aimed at detecting fake news related to COVID-19. The project involves various tasks such as data preprocessing, model training, and evaluation to create a robust fake news detection system.
+## Overview 
 
-## Description of Code Blocks
+This repository contains a Notebook aimed at detecting fake news related to COVID-19. The project involves various tasks such as data preprocessing, model training, and evaluation to create a robust fake news detection system.
+
+## Code Structure
 
 ### 1. Installation of Required Packages
 This code block installs the necessary Python packages, including `tweet-preprocessor`, which is used for preprocessing tweets.
